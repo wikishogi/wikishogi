@@ -19439,4 +19439,20 @@ However, when the championships schedule can wait for his return, postponement o
       <text xml:space="preserve" bytes="79">Эту категорию/статью предлагается удалить.</text>
     </revision>
   </page>
+  <page>
+    <title>Обсуждение Викисёги:Резервные копии</title>
+    <ns>5</ns>
+    <id>50</id>
+    <revision>
+      <id>268</id>
+      <timestamp>2013-01-27T14:43:28Z</timestamp>
+      <contributor>
+        <username>Ivan</username>
+        <id>1</id>
+      </contributor>
+      <comment>Новая страница: «Проверяю работу авто-бэкапов...--~~~~»</comment>
+      <sha1>q8ssyoh86mglly5js93s8iw6jyvphcl</sha1>
+      <text xml:space="preserve" bytes="194">Проверяю работу авто-бэкапов...--[[Участник:Ivan|Ivan]] ([[Обсуждение участника:Ivan|обсуждение]]) 18:43, 27 января 2013 (MSK)</text>
+    </revision>
+  </page>
 </mediawiki>
