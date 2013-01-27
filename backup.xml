@@ -19495,5 +19495,17 @@ However, when the championships schedule can wait for his return, postponement o
       <sha1>q8ssyoh86mglly5js93s8iw6jyvphcl</sha1>
       <text xml:space="preserve" bytes="194">Проверяю работу авто-бэкапов...--[[Участник:Ivan|Ivan]] ([[Обсуждение участника:Ivan|обсуждение]]) 18:43, 27 января 2013 (MSK)</text>
     </revision>
+    <revision>
+      <id>271</id>
+      <parentid>268</parentid>
+      <timestamp>2013-01-27T17:30:33Z</timestamp>
+      <contributor>
+        <username>Ivan</username>
+        <id>1</id>
+      </contributor>
+      <comment>Полностью удалено содержимое страницы</comment>
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <text xml:space="preserve" bytes="0" />
+    </revision>
   </page>
 </mediawiki>
