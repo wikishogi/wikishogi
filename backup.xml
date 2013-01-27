@@ -19326,6 +19326,19 @@ However, when the championships schedule can wait for his return, postponement o
 
 [[Категория:Викисёги]]</text>
     </revision>
+    <revision>
+      <id>267</id>
+      <parentid>262</parentid>
+      <timestamp>2013-01-27T13:14:23Z</timestamp>
+      <contributor>
+        <username>Ivan</username>
+        <id>1</id>
+      </contributor>
+      <sha1>s85prhg5nj7gp2k1vho9ejfiojhky3u</sha1>
+      <text xml:space="preserve" bytes="405">Резервная копия - это xml-файл с копией всех статей [[Викисёги]] и историей их правок. Резервные копии делаются автоматически. Самую свежую копию вы всегда можете получить на [https://github.com/wikishogi/wikishogi Github'е].
+
+[[Категория:Викисёги]]</text>
+    </revision>
   </page>
   <page>
     <title>Правила игры JSA</title>
