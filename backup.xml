@@ -11496,6 +11496,823 @@ The notator, Woman Professional Player Yamato Takahashi, then declared a game en
 
 [[Категория:Своды правил сёги]]</text>
     </revision>
+    <revision>
+      <id>272</id>
+      <parentid>241</parentid>
+      <timestamp>2013-01-28T03:55:42Z</timestamp>
+      <contributor>
+        <ip>188.134.60.77</ip>
+      </contributor>
+      <comment>/* Поля */</comment>
+      <sha1>ba1sl44kilq2t19twk7x3e3sj30v7jk</sha1>
+      <text xml:space="preserve" bytes="25658">Данный текст является коллективным переводом английского текста [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#hfb94241 &quot;Rules and Manners of Shogi&quot;] за авторством [[Томохидэ Кавасаки]]. Копия оригинальной сатьи: [[Rules and Manners of Shogi]].
+
+'''Предисловие автора'''
+
+К нашей радости, в последнее время сёги становятся всё более и более популярны во всём мире, благодаря усилиям многих любителей этой игры в Японии и за рубежом. Это восхитительно, но как бы то ни было, у нас существует опасение, что система правил сёги может быть постепенно изменена и её традиционный подход будет забыт в долгом процессе распространения по всему миру. Это опасение вызвано отсутствием официального документа, опубликованного в интернете, в частности на английском языке, который бы ясно устанавливал правила сёги. [http://81dojo.com 81Dojo], увеличивая своё влияние на сообщества сёгистов по всему миру, желает принять ответственность и опубликовать действующие правила и этикет сёги, традиционную культуру Японии. Намерение 81Dojo заключается не просто в распространении сёги, но в распространении игры в подлинной форме. Этот документ является сборником всех &quot;фактов&quot; которые известны в Японии, таких как общеизвестные правила и обычаи сёги, предписанные правила для тонких деталей, прецеденты из профессиональных партий и так далее. 81Dojo рекомендует использовать этот документ, как главное руководство для проведения любых соревнований по сёги за пределами Японии. 13-е июня 2011-го года, [[Томохидэ Кавасаки]].
+
+&lt;!-- Recently, to our delight, shogi is becoming more and more popular around the world thanks to the efforts by many domestic and overseas shogi fans. 
+Delightful thing as it may, there exists a fear in our mind that the rule system of shogi might be gradually altered and its traditional aspect be forgotten in the long process of its spreading throughout the world. This fear is because of the fact that there is no officially authorized document on the internet at present, especially in English, that clearly prescribes the regulations of shogi.
+81Dojo, becoming to have more influence to shogi communities over the world, here would like to take the responsibility and publish the actual rules and manners of shogi, the traditional culture of Japan. The intention of 81Dojo is not to just spread shogi, but to spread it as its genuine form.
+This document is a compilation of all the &quot;facts&quot; that are available to know in Japan, such as commonly understood rules and manners, prescribed regulations on subtle details, precedential judgments in professional games, etc. 81Dojo here suggests that this document should always be used as the primary reference when holding any shogi competition overseas.
+13th June 2011, Tomohide Kawasaki --&gt;
+
+'''Отказ от новых толкований'''
+
+Цель этого документа - предложить наиболее полную информацию об известных правилах и обычаях сёги в Японии. Он НЕ предназначен для установления новых интерпретаций и предписаний по поводу неясных аспектов правил сёги.
+
+&lt;!--Disclaimer
+The objective of this document is to offer the utmost information on the known rules and manners of shogi in Japan. It is NOT the purpose of this site to be a place for establishing new interpretation and rules on yet unclear aspects of shogi regulations. --&gt;
+
+'''Условные обозначения:'''
+
+Чтобы уточнить статусы частей этого документа, вводятся следующие категории и обозначения:
+: Ясные правила &lt;big&gt;§&lt;/big&gt; 
+: Общепринятые обычаи &lt;big&gt;☗&lt;/big&gt;
+: Прикладные правила &lt;big&gt;☖&lt;/big&gt;
+: Прецеденты &lt;big&gt;Ω&lt;/big&gt;
+
+&lt;!-- 
+Legend †
+To clarify how each of the description in this document should be interpreted, following categorization is employed with corresponding marks.
+Clear Rules 
+Generally known basic shogi rules, and subtle details that are prescribed in documents by Japan Shogi Association.
+General Manners 
+Generally known manners that are regarded to be proper in terms of shogi tradition and culture.
+Actual Managements 
+Well accepted actual application in amateur shogi tournaments in Japan, or competition regulations by Japan Shogi Association, which should be separated from shogi rules itself.
+Precedents 
+Example of actual precedents that occurred in professional games in judging subtle or non-prescribed details.
+--&gt; 
+
+= Правила сёги =
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#v73bed1e источник])
+
+Правила и предписания, указанные в этой части, должны применяться во всех соревнованиях по сёги. Если в соревновании применяются нестандартные правила, не подчиняющиеся нижеследующему, то игроки должны быть справедливо оповещены об этом заранее.
+
+&lt;!-- The rules and regulations stated in this Part should be applied to any current shogi competition. When holding a competition with irregular regulations that do not comply with the following, the players must be informed equally before the game. --&gt;
+
+
+== Фигуры и поля ==
+
+=== Фигуры ===
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#dd448697 источник])
+
+Фигуры - основной инструмент сёги. Фигура ставится на поля доски и описывает ходы игрока (см. [[Правила и обычаи сёги#Ходы|части 1.3]]). В сёги есть 8 типов фигур. Некоторые из них имеют 2 состояния, зависящих от того, какая сторона фигуры сверху: лицевая сторона - для исходного состояния, обратная - для превращённого.
+
+{| class=&quot;wikitable&quot;
+|-
+! Исходное состояние !! Превращённое состояние !! количество фигур&lt;br /&gt;на каждого игрока
+|-
+| [http://ru.wikipedia.org/wiki/Пешка_(сёги) Пешка] (яп. 歩兵 фухё) || [http://ru.wikipedia.org/wiki/Токин_(сёги) Токин] (яп. と金 токин) || 9
+|-
+| [http://ru.wikipedia.org/wiki/Стрелка_(сёги) Стрелка] (яп. 香車 кё:ся) || Перевёрнутая стрелка (яп. 成香 нарикё) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Конь_(сёги) Конь] (яп. 桂馬 кэйма) || Перевёрнутый конь (яп. 成桂 нари-кэй) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Серебряный_генерал Серебро] (яп. 銀将 гинсё) || Перевёрнутое серебро (яп. 成銀 наригин) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Золотой_генерал Золото]] (яп. 金将 кинсё) ||  || 2
+|-
+| [http://ru.wikipedia.org/wiki/Слон_(сёги) Слон] (яп. 角行 каку) || [http://ru.wikipedia.org/wiki/Лошадь_(сёги) Лошадь] (яп. 竜馬 рю:ма) || 1
+|-
+| [http://ru.wikipedia.org/wiki/Ладья_(сёги) Ладья] (яп. 飛車 хися) || [http://ru.wikipedia.org/wiki/Дракон_(сёги) Дракон] (яп. 竜王 рю:о)  || 1
+|-
+| [http://ru.wikipedia.org/wiki/Король_(сёги) Король] (яп. 王将 о:сё) ||  || 1
+|}
+
+Каждое состояние каждой фигуры имеет свою схему ходов на доске (см. [http://ru.wikipedia.org/wiki/Сёги#.D0.A4.D0.B8.D0.B3.D1.83.D1.80.D1.8B внешние ссылки]). Во время игры фигура называется по стороне, находящейся сверху в данный момент, и может ходить согласно схеме ходов для этой стороны. Фигуры, у которых нет превращённого состояния, не могут быть перевёрнуты.
+
+Фигурами, принадлежащими игроку считаются:
+# Фигуры на доске, у которых центральная вершина пятиугольника направлена на оппонента
+# Фигуры на [[комадай]] этого игрока. (см. 1.1.2)
+
+&lt;!--
+The pieces are the fundamental instruments in shogi. A piece is put on the squares on the board, and describes player's moves, which is stated in Section 1.3.
+Shogi has 8 types of pieces, some of them having two states depending on which side is being on top. Head side is for original state, and tail side is for promoted state.
+Original State	Promoted State	number per player
+Fu (Pawn)	To-kin (Promoted Pawn)	9
+Kyou (Lance)	Nari-kyou (Promoted Lance)	2
+Kei (Knight)	Nari-kei (Promoted Night)	2
+Gin (Silver)	Nari-gin (Promoted Silver)	2
+Kin (Gold)		2
+Kaku (Bishop)	Uma (Horse)	1
+Hi (Rook)	Ryu (Dragon)	1
+Gyoku (King)		1
+Each state of each piece type has unique pattern of movements on the board. See external reference for movement patterns. (Wikipedia, Shogi, Movement and Capture) During the game, a piece is called with the name written on the top side at the moment, and can be used according to the movement pattern described on that side. Pieces that do not have promoted state cannot be used with their tail sides on top.
+Pieces that belong to a player are:
+Pieces on the board with their center vertex of pentagon toward the opponent
+Pieces on the player's piece stand. (See Section 1.1.2) --&gt;
+
+=== Поля ===
+[Shogi rules and manners#Spaces Источник]
+
+Поля, на которых фигуры могут находиться в игре, делятся на [[сёгибан]] (доску для сёги) и [[комадай]] (два столика для фигур).
+
+Во время игры каждая фигура должна находиться или на одном из 81 полей доски, или на одном из пространств для фигар &quot;в руке&quot; у двух игроков. Все фигуры должны быть ясно видны обоим игрокам.
+
+== Игра ==
+
+== Ходы ==
+
+Ход считается сделанным в тот момент, когда пальцы игрока отрываются от фигуры, которой делался ход. Как только ход сделан, отменить или изменить его игрок не может. 
+
+=== Ходы по доске ===
+
+=== Сбросы ===
+
+== Кинтэ ==
+
+=== Нифу ===
+
+=== Фигуры, не имеющие потенциальной возможности хода ===
+
+=== Утифудзумэ ===
+
+=== Ход, позволяющий съесть своего короля ===
+
+=== Вечный шах ===
+
+== Конец игры ==
+
+=== &quot;Сдаюсь!&quot; ===
+
+=== Сэннититэ ===
+
+=== Вторжение короля ===
+
+=== Проигрыш по нарушению правил ===
+
+=== Истечение времени ===
+
+== Фора ==
+
+= Правила соревнований =
+
+== Время ==
+
+=== Бёёми ===
+
+=== Кирэ-макэ ===
+
+=== Правила обращения с игровыми таймерами ===
+
+== Система 27 очков ==
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#n0c5f324 источник])
+
+Чтобы исключить возможность ничьи при [[дзисёги]], в современных любительских чемпионатах при вторжении королей применяется &quot;правило 27 очков&quot;; игрок, у которого при этом менее 27 очков, проигрывает, а если у обоих игроков по 27 очков, то побеждают белые. При этом, общая сумма очков за все фигуры равна 54.
+
+''(ладья, слон, и драконы при этом стоят по 5 очков, а все остальные фигуры кроме королей - по 1 очку - [[Участник:Shogiru|Shogiru]])''
+
+Система объявления призвана прояснить, в какой позиции следует считать очки.
+
+Объявляющий (т.е. игрок, желающий объявить победу) должен в свой ход заявить желание объявить свою победу до того, как он сделал ход. Тогда часы и партия останавливаются.
+
+Если в позиции на этот момент оказываются соблюдены следующие пункты, то объявляющему засчитывается победа.
+
+# Король объявляющего находится в лагере противника.
+# Объяляющий имеет не менее 28 (если он играет чёрными) или не менее 27 (если он играет белыми) очков.
+# При этом считаются лишь фигуры, находящиеся в лагере противника и в руке.
+# У объяляющего, кроме его короля, есть не менее 10 фигур в лагере противника.
+# Объяляющий сделал объявление во время своего основного времени или [[бёёми]].
+# Король объявляющего не находится под шахом.
+
+== Права и обязанности игроков и третьих лиц == 
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#q4ebd14c источник])
+
+=== Подтверждение конца игры ===
+
+Для завершения партии по одной из причин, описанных в [[Правила и обычаи сёги#Конец игры|разделе 1.5]] (''неясность: тут ссылка в источнике ведёт на раздел 1.4 - [[Участник:Shogiru|Shogiru]]''), всегда требуется подтверждение обоих игроков и их ответственное согласие.
+
+Однако для этого игрок может, также, проконсультироваться с третьим лицом (например, ведущим запись) по вопросам, которые невозможно подтвердить немедленно: таким, как [[сэннититэ]] и вечный шах. Когда времени остаётся крайне мало, и подтверждение сделать трудно, игрок может остановить свои часы и произвести подтверждение.
+
+Когда у партии присутствует ведущий запись, его обязанностью является указать, когда время истекло.
+
+Поскольку личное подтверждение игроков всегда является первейшим фактором в определении исхода игры, его никогда нельзя изменять после того, как подтверждение было сделано обоими игроками, даже если после их первого согласия было обнаружено [[кинтэ]]. Таким образом, сдача партии или соглашение игроков имеют наивысший приоритет.
+
+::''Прецедент: [[Кубо]]-[[Года]] (5.12.2006):''
+
+::* Когда оба игрока не могут придти к согласию по результату, надо проконсультироваться с авторитетным лицом. (см., также, Приложение к Гл.3, статья 8, пункт 4).
+::* На любое принудительное завершение партии следует указывать прежде, чем производить сдачу.
+
+::&lt;blockquote&gt;На 126-м ходу Годы Кубо верил, что [[бёёми]] закончилось до того, как был сделан ход. Но поскольку ведущий запись этого не объявил, а Кубо сам был на бёёми, он не решился указать на это в тот момент, и продолжил играть. После 182-го хода, когда у Кубо была проигранная позиция, он попросил прервать игру и указал, что на 126-м ходу время истекло. Ведущий запись проконсультировался об этом вопросе с вице-президентом [[Японская ассоциация сёги|JSA]] Накахарой Макото. Суждение [[Накахара|Накахары]] было таким: запоздалое указание на истечение времени недействительно. Далее эта партия продолжилась, и в итоге Кубо сдался.&lt;/blockquote&gt;
+
+::''Прецедент: [[Абэ]]-[[Като]] (10.5.2005)'' 
+
+::* Уже произведённая сдача или согласие имеют наивысший приоритет. 
+::&lt;blockquote&gt;Прямо после того, как Като сыграл 100.N-37=, он продолжил касаться коня вновь и вновь несколько секунд, и затем перевернул его, сделав ход N-37+. Абэ, вместо указания на незаконное изменение уже сделанного хода, заметил лишь, что следует правильно вычесть время, потраченное на раздумие, поскольку после того, как Като сыграл 100.N-37+, часы были нажаты. Тогда время раздумий было вычтено и партия продолжилась, и в результате её Абэ сдался. Позже [[Японская ассоциация сёги|JSA]] наложила на Като наказание за за незаконное изменение уже сделанного хода. Однако результатом той партии осталась победа Като.&lt;/blockquote&gt; 
+
+
+&lt;!-- When ending the game with any of the conditions stated in Section 1.5, both players' confirmation and agreement on their responsibility is always required.
+To do this, however, player may also consult a third person (e.g. the notator) for matters that cannot be confirmed immediately, such as Repetition Draw and Perpetual Check. When the remaining time is extremely small and confirmation is difficult to make, player may stop his/her own clock and make the confirmation.
+When a notator attends the game, it is his/her obligation to point out time-up.
+Since players' own confirmation is always the primary factor in deciding the result of the game, it can never be changed after once confirmed by both players, even if an illegal act is found after their first agreement. Thus, an already made resignation or agreement has the strongest effect.
+
+Precedent: Kubo vs Gouda (5th Dec. 2006) 
+When both players cannot agree on the result, it should be consulted with a person who has the authority. (Also see Appendix Chapter 3, Article 8, Clause 4 )
+Any forced game end should be pointed out before a resignation.
+In Gouda's 126th move, Kubo believed that Byoyomi had run out before the move was made. But since the notator did not declare time-up
+and Kubo himself was in Byoyomi as well, he could not make up his mind to point it out at the time and kept playing.
+After 182nd move, where Kubo was in a losing position, he asked to suspend the game and pointed out that 126th move was a time-up.
+The notator consulted JSA Vice Chairman Makoto Nakahara with the matter. Nakahara's judgement was that
+pointing out time-up later is not valid. The game was then restarted, right after which Kubo resigned.
+
+Precedent: Abe vs Katou (10th May 2005) 
+An already made resignation or agreement has the strongest effect.
+Right after Katou played △N-37= in 100th move, he kept on fiddling with the Knight touching it again and again for several seconds,
+and then flipped it over to be △N-37+. Abe, instead of claiming an illegal act of changing a completed move, only claimed that thinking time
+should be properly subtracted because the clock had stopped since when Katou played △N-37=.
+Thinking time was then subtracted, and the game kept on proceeding, in which Abe resigned in the end.
+JSA later imposed penalty on Katou for making the illegal act of changing a completed move. However, the result of the game remained as Katou's win. --&gt;
+
+=== Самовольный совет третьих лиц ===
+
+Всем третьим лицам (например, зрителям) запрещено давать игрокам любые советы. 
+
+Однако у них есть право указывать на любое принудительное завершение партии, когда оно очевидно: в таких случаях, как кинтэ, окончание времени и т.д. После этого для определения исхода игры должно следовать согласие обоих игроков. 
+
+Прецедент: [[Ариёси]]-[[Танака]], телетурнир [[Хаядзаси]] (блиц). 
+::* Третье лицо может указывать на кинтэ 
+::&lt;blockquote&gt;После того, как Ариёси сделал нифу, Танака продолжал думать над следующим ходом, не замечая нифу. Тогда ведущая запись, профессионалка [[Такахаси Ямато]], объявила конец партии по кинтэ.&lt;/blockquote&gt;
+
+
+&lt;!-- 
+
+2.3.2　Voluntary Advice by Third Person †
+Any third person (e.g. spectators) must not give any advice to players.
+However, he/she does have the right to point out any forced game end when it is clear, such as illegal move and time-up, etc. It should then be followed by both players' confirmation to decide the result of the game.
+
+Precedent: Ariyoshi vs Tanaka (TV broadcast &quot;Haya-zashi&quot; (Blitz) Championship) 
+A third person can point out illegal move.
+After Ariyoshi made a Nifu in the game, Tanaka kept thinking for the next move not noticing it was Nifu.
+The notator, Woman Professional Player Yamato Takahashi, then declared a game end based on the illegal move.
+
+--&gt;
+
+= Традиции и культурные обычаи =
+
+== Начало партии ==
+
+== Во время партии ==
+
+== Окончание партии ==
+
+= Приложение =
+В [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#scfe1062 оригинальной статье] в качестве приложения даётся английский текст [[Game Regulations of Japan Shogi Association]]. Предлагаю перевести его в отдельной статье, чтобы не перегружать эту, а тут поставить ссылку на перевод. --[[Участник:Ivan|Ivan]] ([[Обсуждение участника:Ivan|обсуждение]]) 17:19, 25 января 2013 (MSK)
+
+= Ссылки и первоисточники =
+
+[1] 将棋ガイドブック(Shogi Guidebook), Japan Shogi Association, 2003, ISBN 4-8197-0080-4
+
+Оригинальный текст [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#hfb94241 &quot;Rules and Manners of Shogi&quot;] за авторством [[Томохидэ Кавасаки]]. Копия оригинальной сатьи: [[Rules and Manners of Shogi]].
+
+[[Категория:Своды правил сёги]]</text>
+    </revision>
+    <revision>
+      <id>273</id>
+      <parentid>272</parentid>
+      <timestamp>2013-01-28T03:56:13Z</timestamp>
+      <contributor>
+        <ip>188.134.60.77</ip>
+      </contributor>
+      <comment>/* Поля */</comment>
+      <sha1>avuhe9wez66146s7e1x2tvn9187kqbl</sha1>
+      <text xml:space="preserve" bytes="25660">Данный текст является коллективным переводом английского текста [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#hfb94241 &quot;Rules and Manners of Shogi&quot;] за авторством [[Томохидэ Кавасаки]]. Копия оригинальной сатьи: [[Rules and Manners of Shogi]].
+
+'''Предисловие автора'''
+
+К нашей радости, в последнее время сёги становятся всё более и более популярны во всём мире, благодаря усилиям многих любителей этой игры в Японии и за рубежом. Это восхитительно, но как бы то ни было, у нас существует опасение, что система правил сёги может быть постепенно изменена и её традиционный подход будет забыт в долгом процессе распространения по всему миру. Это опасение вызвано отсутствием официального документа, опубликованного в интернете, в частности на английском языке, который бы ясно устанавливал правила сёги. [http://81dojo.com 81Dojo], увеличивая своё влияние на сообщества сёгистов по всему миру, желает принять ответственность и опубликовать действующие правила и этикет сёги, традиционную культуру Японии. Намерение 81Dojo заключается не просто в распространении сёги, но в распространении игры в подлинной форме. Этот документ является сборником всех &quot;фактов&quot; которые известны в Японии, таких как общеизвестные правила и обычаи сёги, предписанные правила для тонких деталей, прецеденты из профессиональных партий и так далее. 81Dojo рекомендует использовать этот документ, как главное руководство для проведения любых соревнований по сёги за пределами Японии. 13-е июня 2011-го года, [[Томохидэ Кавасаки]].
+
+&lt;!-- Recently, to our delight, shogi is becoming more and more popular around the world thanks to the efforts by many domestic and overseas shogi fans. 
+Delightful thing as it may, there exists a fear in our mind that the rule system of shogi might be gradually altered and its traditional aspect be forgotten in the long process of its spreading throughout the world. This fear is because of the fact that there is no officially authorized document on the internet at present, especially in English, that clearly prescribes the regulations of shogi.
+81Dojo, becoming to have more influence to shogi communities over the world, here would like to take the responsibility and publish the actual rules and manners of shogi, the traditional culture of Japan. The intention of 81Dojo is not to just spread shogi, but to spread it as its genuine form.
+This document is a compilation of all the &quot;facts&quot; that are available to know in Japan, such as commonly understood rules and manners, prescribed regulations on subtle details, precedential judgments in professional games, etc. 81Dojo here suggests that this document should always be used as the primary reference when holding any shogi competition overseas.
+13th June 2011, Tomohide Kawasaki --&gt;
+
+'''Отказ от новых толкований'''
+
+Цель этого документа - предложить наиболее полную информацию об известных правилах и обычаях сёги в Японии. Он НЕ предназначен для установления новых интерпретаций и предписаний по поводу неясных аспектов правил сёги.
+
+&lt;!--Disclaimer
+The objective of this document is to offer the utmost information on the known rules and manners of shogi in Japan. It is NOT the purpose of this site to be a place for establishing new interpretation and rules on yet unclear aspects of shogi regulations. --&gt;
+
+'''Условные обозначения:'''
+
+Чтобы уточнить статусы частей этого документа, вводятся следующие категории и обозначения:
+: Ясные правила &lt;big&gt;§&lt;/big&gt; 
+: Общепринятые обычаи &lt;big&gt;☗&lt;/big&gt;
+: Прикладные правила &lt;big&gt;☖&lt;/big&gt;
+: Прецеденты &lt;big&gt;Ω&lt;/big&gt;
+
+&lt;!-- 
+Legend †
+To clarify how each of the description in this document should be interpreted, following categorization is employed with corresponding marks.
+Clear Rules 
+Generally known basic shogi rules, and subtle details that are prescribed in documents by Japan Shogi Association.
+General Manners 
+Generally known manners that are regarded to be proper in terms of shogi tradition and culture.
+Actual Managements 
+Well accepted actual application in amateur shogi tournaments in Japan, or competition regulations by Japan Shogi Association, which should be separated from shogi rules itself.
+Precedents 
+Example of actual precedents that occurred in professional games in judging subtle or non-prescribed details.
+--&gt; 
+
+= Правила сёги =
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#v73bed1e источник])
+
+Правила и предписания, указанные в этой части, должны применяться во всех соревнованиях по сёги. Если в соревновании применяются нестандартные правила, не подчиняющиеся нижеследующему, то игроки должны быть справедливо оповещены об этом заранее.
+
+&lt;!-- The rules and regulations stated in this Part should be applied to any current shogi competition. When holding a competition with irregular regulations that do not comply with the following, the players must be informed equally before the game. --&gt;
+
+
+== Фигуры и поля ==
+
+=== Фигуры ===
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#dd448697 источник])
+
+Фигуры - основной инструмент сёги. Фигура ставится на поля доски и описывает ходы игрока (см. [[Правила и обычаи сёги#Ходы|части 1.3]]). В сёги есть 8 типов фигур. Некоторые из них имеют 2 состояния, зависящих от того, какая сторона фигуры сверху: лицевая сторона - для исходного состояния, обратная - для превращённого.
+
+{| class=&quot;wikitable&quot;
+|-
+! Исходное состояние !! Превращённое состояние !! количество фигур&lt;br /&gt;на каждого игрока
+|-
+| [http://ru.wikipedia.org/wiki/Пешка_(сёги) Пешка] (яп. 歩兵 фухё) || [http://ru.wikipedia.org/wiki/Токин_(сёги) Токин] (яп. と金 токин) || 9
+|-
+| [http://ru.wikipedia.org/wiki/Стрелка_(сёги) Стрелка] (яп. 香車 кё:ся) || Перевёрнутая стрелка (яп. 成香 нарикё) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Конь_(сёги) Конь] (яп. 桂馬 кэйма) || Перевёрнутый конь (яп. 成桂 нари-кэй) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Серебряный_генерал Серебро] (яп. 銀将 гинсё) || Перевёрнутое серебро (яп. 成銀 наригин) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Золотой_генерал Золото]] (яп. 金将 кинсё) ||  || 2
+|-
+| [http://ru.wikipedia.org/wiki/Слон_(сёги) Слон] (яп. 角行 каку) || [http://ru.wikipedia.org/wiki/Лошадь_(сёги) Лошадь] (яп. 竜馬 рю:ма) || 1
+|-
+| [http://ru.wikipedia.org/wiki/Ладья_(сёги) Ладья] (яп. 飛車 хися) || [http://ru.wikipedia.org/wiki/Дракон_(сёги) Дракон] (яп. 竜王 рю:о)  || 1
+|-
+| [http://ru.wikipedia.org/wiki/Король_(сёги) Король] (яп. 王将 о:сё) ||  || 1
+|}
+
+Каждое состояние каждой фигуры имеет свою схему ходов на доске (см. [http://ru.wikipedia.org/wiki/Сёги#.D0.A4.D0.B8.D0.B3.D1.83.D1.80.D1.8B внешние ссылки]). Во время игры фигура называется по стороне, находящейся сверху в данный момент, и может ходить согласно схеме ходов для этой стороны. Фигуры, у которых нет превращённого состояния, не могут быть перевёрнуты.
+
+Фигурами, принадлежащими игроку считаются:
+# Фигуры на доске, у которых центральная вершина пятиугольника направлена на оппонента
+# Фигуры на [[комадай]] этого игрока. (см. 1.1.2)
+
+&lt;!--
+The pieces are the fundamental instruments in shogi. A piece is put on the squares on the board, and describes player's moves, which is stated in Section 1.3.
+Shogi has 8 types of pieces, some of them having two states depending on which side is being on top. Head side is for original state, and tail side is for promoted state.
+Original State	Promoted State	number per player
+Fu (Pawn)	To-kin (Promoted Pawn)	9
+Kyou (Lance)	Nari-kyou (Promoted Lance)	2
+Kei (Knight)	Nari-kei (Promoted Night)	2
+Gin (Silver)	Nari-gin (Promoted Silver)	2
+Kin (Gold)		2
+Kaku (Bishop)	Uma (Horse)	1
+Hi (Rook)	Ryu (Dragon)	1
+Gyoku (King)		1
+Each state of each piece type has unique pattern of movements on the board. See external reference for movement patterns. (Wikipedia, Shogi, Movement and Capture) During the game, a piece is called with the name written on the top side at the moment, and can be used according to the movement pattern described on that side. Pieces that do not have promoted state cannot be used with their tail sides on top.
+Pieces that belong to a player are:
+Pieces on the board with their center vertex of pentagon toward the opponent
+Pieces on the player's piece stand. (See Section 1.1.2) --&gt;
+
+=== Поля ===
+[[Shogi rules and manners#Spaces|Источник]]
+
+Поля, на которых фигуры могут находиться в игре, делятся на [[сёгибан]] (доску для сёги) и [[комадай]] (два столика для фигур).
+
+Во время игры каждая фигура должна находиться или на одном из 81 полей доски, или на одном из пространств для фигар &quot;в руке&quot; у двух игроков. Все фигуры должны быть ясно видны обоим игрокам.
+
+== Игра ==
+
+== Ходы ==
+
+Ход считается сделанным в тот момент, когда пальцы игрока отрываются от фигуры, которой делался ход. Как только ход сделан, отменить или изменить его игрок не может. 
+
+=== Ходы по доске ===
+
+=== Сбросы ===
+
+== Кинтэ ==
+
+=== Нифу ===
+
+=== Фигуры, не имеющие потенциальной возможности хода ===
+
+=== Утифудзумэ ===
+
+=== Ход, позволяющий съесть своего короля ===
+
+=== Вечный шах ===
+
+== Конец игры ==
+
+=== &quot;Сдаюсь!&quot; ===
+
+=== Сэннититэ ===
+
+=== Вторжение короля ===
+
+=== Проигрыш по нарушению правил ===
+
+=== Истечение времени ===
+
+== Фора ==
+
+= Правила соревнований =
+
+== Время ==
+
+=== Бёёми ===
+
+=== Кирэ-макэ ===
+
+=== Правила обращения с игровыми таймерами ===
+
+== Система 27 очков ==
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#n0c5f324 источник])
+
+Чтобы исключить возможность ничьи при [[дзисёги]], в современных любительских чемпионатах при вторжении королей применяется &quot;правило 27 очков&quot;; игрок, у которого при этом менее 27 очков, проигрывает, а если у обоих игроков по 27 очков, то побеждают белые. При этом, общая сумма очков за все фигуры равна 54.
+
+''(ладья, слон, и драконы при этом стоят по 5 очков, а все остальные фигуры кроме королей - по 1 очку - [[Участник:Shogiru|Shogiru]])''
+
+Система объявления призвана прояснить, в какой позиции следует считать очки.
+
+Объявляющий (т.е. игрок, желающий объявить победу) должен в свой ход заявить желание объявить свою победу до того, как он сделал ход. Тогда часы и партия останавливаются.
+
+Если в позиции на этот момент оказываются соблюдены следующие пункты, то объявляющему засчитывается победа.
+
+# Король объявляющего находится в лагере противника.
+# Объяляющий имеет не менее 28 (если он играет чёрными) или не менее 27 (если он играет белыми) очков.
+# При этом считаются лишь фигуры, находящиеся в лагере противника и в руке.
+# У объяляющего, кроме его короля, есть не менее 10 фигур в лагере противника.
+# Объяляющий сделал объявление во время своего основного времени или [[бёёми]].
+# Король объявляющего не находится под шахом.
+
+== Права и обязанности игроков и третьих лиц == 
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#q4ebd14c источник])
+
+=== Подтверждение конца игры ===
+
+Для завершения партии по одной из причин, описанных в [[Правила и обычаи сёги#Конец игры|разделе 1.5]] (''неясность: тут ссылка в источнике ведёт на раздел 1.4 - [[Участник:Shogiru|Shogiru]]''), всегда требуется подтверждение обоих игроков и их ответственное согласие.
+
+Однако для этого игрок может, также, проконсультироваться с третьим лицом (например, ведущим запись) по вопросам, которые невозможно подтвердить немедленно: таким, как [[сэннититэ]] и вечный шах. Когда времени остаётся крайне мало, и подтверждение сделать трудно, игрок может остановить свои часы и произвести подтверждение.
+
+Когда у партии присутствует ведущий запись, его обязанностью является указать, когда время истекло.
+
+Поскольку личное подтверждение игроков всегда является первейшим фактором в определении исхода игры, его никогда нельзя изменять после того, как подтверждение было сделано обоими игроками, даже если после их первого согласия было обнаружено [[кинтэ]]. Таким образом, сдача партии или соглашение игроков имеют наивысший приоритет.
+
+::''Прецедент: [[Кубо]]-[[Года]] (5.12.2006):''
+
+::* Когда оба игрока не могут придти к согласию по результату, надо проконсультироваться с авторитетным лицом. (см., также, Приложение к Гл.3, статья 8, пункт 4).
+::* На любое принудительное завершение партии следует указывать прежде, чем производить сдачу.
+
+::&lt;blockquote&gt;На 126-м ходу Годы Кубо верил, что [[бёёми]] закончилось до того, как был сделан ход. Но поскольку ведущий запись этого не объявил, а Кубо сам был на бёёми, он не решился указать на это в тот момент, и продолжил играть. После 182-го хода, когда у Кубо была проигранная позиция, он попросил прервать игру и указал, что на 126-м ходу время истекло. Ведущий запись проконсультировался об этом вопросе с вице-президентом [[Японская ассоциация сёги|JSA]] Накахарой Макото. Суждение [[Накахара|Накахары]] было таким: запоздалое указание на истечение времени недействительно. Далее эта партия продолжилась, и в итоге Кубо сдался.&lt;/blockquote&gt;
+
+::''Прецедент: [[Абэ]]-[[Като]] (10.5.2005)'' 
+
+::* Уже произведённая сдача или согласие имеют наивысший приоритет. 
+::&lt;blockquote&gt;Прямо после того, как Като сыграл 100.N-37=, он продолжил касаться коня вновь и вновь несколько секунд, и затем перевернул его, сделав ход N-37+. Абэ, вместо указания на незаконное изменение уже сделанного хода, заметил лишь, что следует правильно вычесть время, потраченное на раздумие, поскольку после того, как Като сыграл 100.N-37+, часы были нажаты. Тогда время раздумий было вычтено и партия продолжилась, и в результате её Абэ сдался. Позже [[Японская ассоциация сёги|JSA]] наложила на Като наказание за за незаконное изменение уже сделанного хода. Однако результатом той партии осталась победа Като.&lt;/blockquote&gt; 
+
+
+&lt;!-- When ending the game with any of the conditions stated in Section 1.5, both players' confirmation and agreement on their responsibility is always required.
+To do this, however, player may also consult a third person (e.g. the notator) for matters that cannot be confirmed immediately, such as Repetition Draw and Perpetual Check. When the remaining time is extremely small and confirmation is difficult to make, player may stop his/her own clock and make the confirmation.
+When a notator attends the game, it is his/her obligation to point out time-up.
+Since players' own confirmation is always the primary factor in deciding the result of the game, it can never be changed after once confirmed by both players, even if an illegal act is found after their first agreement. Thus, an already made resignation or agreement has the strongest effect.
+
+Precedent: Kubo vs Gouda (5th Dec. 2006) 
+When both players cannot agree on the result, it should be consulted with a person who has the authority. (Also see Appendix Chapter 3, Article 8, Clause 4 )
+Any forced game end should be pointed out before a resignation.
+In Gouda's 126th move, Kubo believed that Byoyomi had run out before the move was made. But since the notator did not declare time-up
+and Kubo himself was in Byoyomi as well, he could not make up his mind to point it out at the time and kept playing.
+After 182nd move, where Kubo was in a losing position, he asked to suspend the game and pointed out that 126th move was a time-up.
+The notator consulted JSA Vice Chairman Makoto Nakahara with the matter. Nakahara's judgement was that
+pointing out time-up later is not valid. The game was then restarted, right after which Kubo resigned.
+
+Precedent: Abe vs Katou (10th May 2005) 
+An already made resignation or agreement has the strongest effect.
+Right after Katou played △N-37= in 100th move, he kept on fiddling with the Knight touching it again and again for several seconds,
+and then flipped it over to be △N-37+. Abe, instead of claiming an illegal act of changing a completed move, only claimed that thinking time
+should be properly subtracted because the clock had stopped since when Katou played △N-37=.
+Thinking time was then subtracted, and the game kept on proceeding, in which Abe resigned in the end.
+JSA later imposed penalty on Katou for making the illegal act of changing a completed move. However, the result of the game remained as Katou's win. --&gt;
+
+=== Самовольный совет третьих лиц ===
+
+Всем третьим лицам (например, зрителям) запрещено давать игрокам любые советы. 
+
+Однако у них есть право указывать на любое принудительное завершение партии, когда оно очевидно: в таких случаях, как кинтэ, окончание времени и т.д. После этого для определения исхода игры должно следовать согласие обоих игроков. 
+
+Прецедент: [[Ариёси]]-[[Танака]], телетурнир [[Хаядзаси]] (блиц). 
+::* Третье лицо может указывать на кинтэ 
+::&lt;blockquote&gt;После того, как Ариёси сделал нифу, Танака продолжал думать над следующим ходом, не замечая нифу. Тогда ведущая запись, профессионалка [[Такахаси Ямато]], объявила конец партии по кинтэ.&lt;/blockquote&gt;
+
+
+&lt;!-- 
+
+2.3.2　Voluntary Advice by Third Person †
+Any third person (e.g. spectators) must not give any advice to players.
+However, he/she does have the right to point out any forced game end when it is clear, such as illegal move and time-up, etc. It should then be followed by both players' confirmation to decide the result of the game.
+
+Precedent: Ariyoshi vs Tanaka (TV broadcast &quot;Haya-zashi&quot; (Blitz) Championship) 
+A third person can point out illegal move.
+After Ariyoshi made a Nifu in the game, Tanaka kept thinking for the next move not noticing it was Nifu.
+The notator, Woman Professional Player Yamato Takahashi, then declared a game end based on the illegal move.
+
+--&gt;
+
+= Традиции и культурные обычаи =
+
+== Начало партии ==
+
+== Во время партии ==
+
+== Окончание партии ==
+
+= Приложение =
+В [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#scfe1062 оригинальной статье] в качестве приложения даётся английский текст [[Game Regulations of Japan Shogi Association]]. Предлагаю перевести его в отдельной статье, чтобы не перегружать эту, а тут поставить ссылку на перевод. --[[Участник:Ivan|Ivan]] ([[Обсуждение участника:Ivan|обсуждение]]) 17:19, 25 января 2013 (MSK)
+
+= Ссылки и первоисточники =
+
+[1] 将棋ガイドブック(Shogi Guidebook), Japan Shogi Association, 2003, ISBN 4-8197-0080-4
+
+Оригинальный текст [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#hfb94241 &quot;Rules and Manners of Shogi&quot;] за авторством [[Томохидэ Кавасаки]]. Копия оригинальной сатьи: [[Rules and Manners of Shogi]].
+
+[[Категория:Своды правил сёги]]</text>
+    </revision>
+    <revision>
+      <id>274</id>
+      <parentid>273</parentid>
+      <timestamp>2013-01-28T03:58:13Z</timestamp>
+      <contributor>
+        <username>Shogiru</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Поля */</comment>
+      <sha1>ndyk33gjnfj34p8xt3gqdfh42wskrvl</sha1>
+      <text xml:space="preserve" bytes="25704">Данный текст является коллективным переводом английского текста [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#hfb94241 &quot;Rules and Manners of Shogi&quot;] за авторством [[Томохидэ Кавасаки]]. Копия оригинальной сатьи: [[Rules and Manners of Shogi]].
+
+'''Предисловие автора'''
+
+К нашей радости, в последнее время сёги становятся всё более и более популярны во всём мире, благодаря усилиям многих любителей этой игры в Японии и за рубежом. Это восхитительно, но как бы то ни было, у нас существует опасение, что система правил сёги может быть постепенно изменена и её традиционный подход будет забыт в долгом процессе распространения по всему миру. Это опасение вызвано отсутствием официального документа, опубликованного в интернете, в частности на английском языке, который бы ясно устанавливал правила сёги. [http://81dojo.com 81Dojo], увеличивая своё влияние на сообщества сёгистов по всему миру, желает принять ответственность и опубликовать действующие правила и этикет сёги, традиционную культуру Японии. Намерение 81Dojo заключается не просто в распространении сёги, но в распространении игры в подлинной форме. Этот документ является сборником всех &quot;фактов&quot; которые известны в Японии, таких как общеизвестные правила и обычаи сёги, предписанные правила для тонких деталей, прецеденты из профессиональных партий и так далее. 81Dojo рекомендует использовать этот документ, как главное руководство для проведения любых соревнований по сёги за пределами Японии. 13-е июня 2011-го года, [[Томохидэ Кавасаки]].
+
+&lt;!-- Recently, to our delight, shogi is becoming more and more popular around the world thanks to the efforts by many domestic and overseas shogi fans. 
+Delightful thing as it may, there exists a fear in our mind that the rule system of shogi might be gradually altered and its traditional aspect be forgotten in the long process of its spreading throughout the world. This fear is because of the fact that there is no officially authorized document on the internet at present, especially in English, that clearly prescribes the regulations of shogi.
+81Dojo, becoming to have more influence to shogi communities over the world, here would like to take the responsibility and publish the actual rules and manners of shogi, the traditional culture of Japan. The intention of 81Dojo is not to just spread shogi, but to spread it as its genuine form.
+This document is a compilation of all the &quot;facts&quot; that are available to know in Japan, such as commonly understood rules and manners, prescribed regulations on subtle details, precedential judgments in professional games, etc. 81Dojo here suggests that this document should always be used as the primary reference when holding any shogi competition overseas.
+13th June 2011, Tomohide Kawasaki --&gt;
+
+'''Отказ от новых толкований'''
+
+Цель этого документа - предложить наиболее полную информацию об известных правилах и обычаях сёги в Японии. Он НЕ предназначен для установления новых интерпретаций и предписаний по поводу неясных аспектов правил сёги.
+
+&lt;!--Disclaimer
+The objective of this document is to offer the utmost information on the known rules and manners of shogi in Japan. It is NOT the purpose of this site to be a place for establishing new interpretation and rules on yet unclear aspects of shogi regulations. --&gt;
+
+'''Условные обозначения:'''
+
+Чтобы уточнить статусы частей этого документа, вводятся следующие категории и обозначения:
+: Ясные правила &lt;big&gt;§&lt;/big&gt; 
+: Общепринятые обычаи &lt;big&gt;☗&lt;/big&gt;
+: Прикладные правила &lt;big&gt;☖&lt;/big&gt;
+: Прецеденты &lt;big&gt;Ω&lt;/big&gt;
+
+&lt;!-- 
+Legend †
+To clarify how each of the description in this document should be interpreted, following categorization is employed with corresponding marks.
+Clear Rules 
+Generally known basic shogi rules, and subtle details that are prescribed in documents by Japan Shogi Association.
+General Manners 
+Generally known manners that are regarded to be proper in terms of shogi tradition and culture.
+Actual Managements 
+Well accepted actual application in amateur shogi tournaments in Japan, or competition regulations by Japan Shogi Association, which should be separated from shogi rules itself.
+Precedents 
+Example of actual precedents that occurred in professional games in judging subtle or non-prescribed details.
+--&gt; 
+
+= Правила сёги =
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#v73bed1e источник])
+
+Правила и предписания, указанные в этой части, должны применяться во всех соревнованиях по сёги. Если в соревновании применяются нестандартные правила, не подчиняющиеся нижеследующему, то игроки должны быть справедливо оповещены об этом заранее.
+
+&lt;!-- The rules and regulations stated in this Part should be applied to any current shogi competition. When holding a competition with irregular regulations that do not comply with the following, the players must be informed equally before the game. --&gt;
+
+
+== Фигуры и поля ==
+
+=== Фигуры ===
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#dd448697 источник])
+
+Фигуры - основной инструмент сёги. Фигура ставится на поля доски и описывает ходы игрока (см. [[Правила и обычаи сёги#Ходы|части 1.3]]). В сёги есть 8 типов фигур. Некоторые из них имеют 2 состояния, зависящих от того, какая сторона фигуры сверху: лицевая сторона - для исходного состояния, обратная - для превращённого.
+
+{| class=&quot;wikitable&quot;
+|-
+! Исходное состояние !! Превращённое состояние !! количество фигур&lt;br /&gt;на каждого игрока
+|-
+| [http://ru.wikipedia.org/wiki/Пешка_(сёги) Пешка] (яп. 歩兵 фухё) || [http://ru.wikipedia.org/wiki/Токин_(сёги) Токин] (яп. と金 токин) || 9
+|-
+| [http://ru.wikipedia.org/wiki/Стрелка_(сёги) Стрелка] (яп. 香車 кё:ся) || Перевёрнутая стрелка (яп. 成香 нарикё) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Конь_(сёги) Конь] (яп. 桂馬 кэйма) || Перевёрнутый конь (яп. 成桂 нари-кэй) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Серебряный_генерал Серебро] (яп. 銀将 гинсё) || Перевёрнутое серебро (яп. 成銀 наригин) || 2
+|-
+| [http://ru.wikipedia.org/wiki/Золотой_генерал Золото]] (яп. 金将 кинсё) ||  || 2
+|-
+| [http://ru.wikipedia.org/wiki/Слон_(сёги) Слон] (яп. 角行 каку) || [http://ru.wikipedia.org/wiki/Лошадь_(сёги) Лошадь] (яп. 竜馬 рю:ма) || 1
+|-
+| [http://ru.wikipedia.org/wiki/Ладья_(сёги) Ладья] (яп. 飛車 хися) || [http://ru.wikipedia.org/wiki/Дракон_(сёги) Дракон] (яп. 竜王 рю:о)  || 1
+|-
+| [http://ru.wikipedia.org/wiki/Король_(сёги) Король] (яп. 王将 о:сё) ||  || 1
+|}
+
+Каждое состояние каждой фигуры имеет свою схему ходов на доске (см. [http://ru.wikipedia.org/wiki/Сёги#.D0.A4.D0.B8.D0.B3.D1.83.D1.80.D1.8B внешние ссылки]). Во время игры фигура называется по стороне, находящейся сверху в данный момент, и может ходить согласно схеме ходов для этой стороны. Фигуры, у которых нет превращённого состояния, не могут быть перевёрнуты.
+
+Фигурами, принадлежащими игроку считаются:
+# Фигуры на доске, у которых центральная вершина пятиугольника направлена на оппонента
+# Фигуры на [[комадай]] этого игрока. (см. 1.1.2)
+
+&lt;!--
+The pieces are the fundamental instruments in shogi. A piece is put on the squares on the board, and describes player's moves, which is stated in Section 1.3.
+Shogi has 8 types of pieces, some of them having two states depending on which side is being on top. Head side is for original state, and tail side is for promoted state.
+Original State	Promoted State	number per player
+Fu (Pawn)	To-kin (Promoted Pawn)	9
+Kyou (Lance)	Nari-kyou (Promoted Lance)	2
+Kei (Knight)	Nari-kei (Promoted Night)	2
+Gin (Silver)	Nari-gin (Promoted Silver)	2
+Kin (Gold)		2
+Kaku (Bishop)	Uma (Horse)	1
+Hi (Rook)	Ryu (Dragon)	1
+Gyoku (King)		1
+Each state of each piece type has unique pattern of movements on the board. See external reference for movement patterns. (Wikipedia, Shogi, Movement and Capture) During the game, a piece is called with the name written on the top side at the moment, and can be used according to the movement pattern described on that side. Pieces that do not have promoted state cannot be used with their tail sides on top.
+Pieces that belong to a player are:
+Pieces on the board with their center vertex of pentagon toward the opponent
+Pieces on the player's piece stand. (See Section 1.1.2) --&gt;
+
+=== Поля ===
+[http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#Spaces Источник]
+
+Поля, на которых фигуры могут находиться в игре, делятся на [[сёгибан]] (доску для сёги) и [[комадай]] (два столика для фигур).
+
+Во время игры каждая фигура должна находиться или на одном из 81 полей доски, или на одном из пространств для фигур &quot;в руке&quot; у двух игроков. Все фигуры должны быть ясно видны обоим игрокам.
+
+== Игра ==
+
+== Ходы ==
+
+Ход считается сделанным в тот момент, когда пальцы игрока отрываются от фигуры, которой делался ход. Как только ход сделан, отменить или изменить его игрок не может. 
+
+=== Ходы по доске ===
+
+=== Сбросы ===
+
+== Кинтэ ==
+
+=== Нифу ===
+
+=== Фигуры, не имеющие потенциальной возможности хода ===
+
+=== Утифудзумэ ===
+
+=== Ход, позволяющий съесть своего короля ===
+
+=== Вечный шах ===
+
+== Конец игры ==
+
+=== &quot;Сдаюсь!&quot; ===
+
+=== Сэннититэ ===
+
+=== Вторжение короля ===
+
+=== Проигрыш по нарушению правил ===
+
+=== Истечение времени ===
+
+== Фора ==
+
+= Правила соревнований =
+
+== Время ==
+
+=== Бёёми ===
+
+=== Кирэ-макэ ===
+
+=== Правила обращения с игровыми таймерами ===
+
+== Система 27 очков ==
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#n0c5f324 источник])
+
+Чтобы исключить возможность ничьи при [[дзисёги]], в современных любительских чемпионатах при вторжении королей применяется &quot;правило 27 очков&quot;; игрок, у которого при этом менее 27 очков, проигрывает, а если у обоих игроков по 27 очков, то побеждают белые. При этом, общая сумма очков за все фигуры равна 54.
+
+''(ладья, слон, и драконы при этом стоят по 5 очков, а все остальные фигуры кроме королей - по 1 очку - [[Участник:Shogiru|Shogiru]])''
+
+Система объявления призвана прояснить, в какой позиции следует считать очки.
+
+Объявляющий (т.е. игрок, желающий объявить победу) должен в свой ход заявить желание объявить свою победу до того, как он сделал ход. Тогда часы и партия останавливаются.
+
+Если в позиции на этот момент оказываются соблюдены следующие пункты, то объявляющему засчитывается победа.
+
+# Король объявляющего находится в лагере противника.
+# Объяляющий имеет не менее 28 (если он играет чёрными) или не менее 27 (если он играет белыми) очков.
+# При этом считаются лишь фигуры, находящиеся в лагере противника и в руке.
+# У объяляющего, кроме его короля, есть не менее 10 фигур в лагере противника.
+# Объяляющий сделал объявление во время своего основного времени или [[бёёми]].
+# Король объявляющего не находится под шахом.
+
+== Права и обязанности игроков и третьих лиц == 
+([http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#q4ebd14c источник])
+
+=== Подтверждение конца игры ===
+
+Для завершения партии по одной из причин, описанных в [[Правила и обычаи сёги#Конец игры|разделе 1.5]] (''неясность: тут ссылка в источнике ведёт на раздел 1.4 - [[Участник:Shogiru|Shogiru]]''), всегда требуется подтверждение обоих игроков и их ответственное согласие.
+
+Однако для этого игрок может, также, проконсультироваться с третьим лицом (например, ведущим запись) по вопросам, которые невозможно подтвердить немедленно: таким, как [[сэннититэ]] и вечный шах. Когда времени остаётся крайне мало, и подтверждение сделать трудно, игрок может остановить свои часы и произвести подтверждение.
+
+Когда у партии присутствует ведущий запись, его обязанностью является указать, когда время истекло.
+
+Поскольку личное подтверждение игроков всегда является первейшим фактором в определении исхода игры, его никогда нельзя изменять после того, как подтверждение было сделано обоими игроками, даже если после их первого согласия было обнаружено [[кинтэ]]. Таким образом, сдача партии или соглашение игроков имеют наивысший приоритет.
+
+::''Прецедент: [[Кубо]]-[[Года]] (5.12.2006):''
+
+::* Когда оба игрока не могут придти к согласию по результату, надо проконсультироваться с авторитетным лицом. (см., также, Приложение к Гл.3, статья 8, пункт 4).
+::* На любое принудительное завершение партии следует указывать прежде, чем производить сдачу.
+
+::&lt;blockquote&gt;На 126-м ходу Годы Кубо верил, что [[бёёми]] закончилось до того, как был сделан ход. Но поскольку ведущий запись этого не объявил, а Кубо сам был на бёёми, он не решился указать на это в тот момент, и продолжил играть. После 182-го хода, когда у Кубо была проигранная позиция, он попросил прервать игру и указал, что на 126-м ходу время истекло. Ведущий запись проконсультировался об этом вопросе с вице-президентом [[Японская ассоциация сёги|JSA]] Накахарой Макото. Суждение [[Накахара|Накахары]] было таким: запоздалое указание на истечение времени недействительно. Далее эта партия продолжилась, и в итоге Кубо сдался.&lt;/blockquote&gt;
+
+::''Прецедент: [[Абэ]]-[[Като]] (10.5.2005)'' 
+
+::* Уже произведённая сдача или согласие имеют наивысший приоритет. 
+::&lt;blockquote&gt;Прямо после того, как Като сыграл 100.N-37=, он продолжил касаться коня вновь и вновь несколько секунд, и затем перевернул его, сделав ход N-37+. Абэ, вместо указания на незаконное изменение уже сделанного хода, заметил лишь, что следует правильно вычесть время, потраченное на раздумие, поскольку после того, как Като сыграл 100.N-37+, часы были нажаты. Тогда время раздумий было вычтено и партия продолжилась, и в результате её Абэ сдался. Позже [[Японская ассоциация сёги|JSA]] наложила на Като наказание за за незаконное изменение уже сделанного хода. Однако результатом той партии осталась победа Като.&lt;/blockquote&gt; 
+
+
+&lt;!-- When ending the game with any of the conditions stated in Section 1.5, both players' confirmation and agreement on their responsibility is always required.
+To do this, however, player may also consult a third person (e.g. the notator) for matters that cannot be confirmed immediately, such as Repetition Draw and Perpetual Check. When the remaining time is extremely small and confirmation is difficult to make, player may stop his/her own clock and make the confirmation.
+When a notator attends the game, it is his/her obligation to point out time-up.
+Since players' own confirmation is always the primary factor in deciding the result of the game, it can never be changed after once confirmed by both players, even if an illegal act is found after their first agreement. Thus, an already made resignation or agreement has the strongest effect.
+
+Precedent: Kubo vs Gouda (5th Dec. 2006) 
+When both players cannot agree on the result, it should be consulted with a person who has the authority. (Also see Appendix Chapter 3, Article 8, Clause 4 )
+Any forced game end should be pointed out before a resignation.
+In Gouda's 126th move, Kubo believed that Byoyomi had run out before the move was made. But since the notator did not declare time-up
+and Kubo himself was in Byoyomi as well, he could not make up his mind to point it out at the time and kept playing.
+After 182nd move, where Kubo was in a losing position, he asked to suspend the game and pointed out that 126th move was a time-up.
+The notator consulted JSA Vice Chairman Makoto Nakahara with the matter. Nakahara's judgement was that
+pointing out time-up later is not valid. The game was then restarted, right after which Kubo resigned.
+
+Precedent: Abe vs Katou (10th May 2005) 
+An already made resignation or agreement has the strongest effect.
+Right after Katou played △N-37= in 100th move, he kept on fiddling with the Knight touching it again and again for several seconds,
+and then flipped it over to be △N-37+. Abe, instead of claiming an illegal act of changing a completed move, only claimed that thinking time
+should be properly subtracted because the clock had stopped since when Katou played △N-37=.
+Thinking time was then subtracted, and the game kept on proceeding, in which Abe resigned in the end.
+JSA later imposed penalty on Katou for making the illegal act of changing a completed move. However, the result of the game remained as Katou's win. --&gt;
+
+=== Самовольный совет третьих лиц ===
+
+Всем третьим лицам (например, зрителям) запрещено давать игрокам любые советы. 
+
+Однако у них есть право указывать на любое принудительное завершение партии, когда оно очевидно: в таких случаях, как кинтэ, окончание времени и т.д. После этого для определения исхода игры должно следовать согласие обоих игроков. 
+
+Прецедент: [[Ариёси]]-[[Танака]], телетурнир [[Хаядзаси]] (блиц). 
+::* Третье лицо может указывать на кинтэ 
+::&lt;blockquote&gt;После того, как Ариёси сделал нифу, Танака продолжал думать над следующим ходом, не замечая нифу. Тогда ведущая запись, профессионалка [[Такахаси Ямато]], объявила конец партии по кинтэ.&lt;/blockquote&gt;
+
+
+&lt;!-- 
+
+2.3.2　Voluntary Advice by Third Person †
+Any third person (e.g. spectators) must not give any advice to players.
+However, he/she does have the right to point out any forced game end when it is clear, such as illegal move and time-up, etc. It should then be followed by both players' confirmation to decide the result of the game.
+
+Precedent: Ariyoshi vs Tanaka (TV broadcast &quot;Haya-zashi&quot; (Blitz) Championship) 
+A third person can point out illegal move.
+After Ariyoshi made a Nifu in the game, Tanaka kept thinking for the next move not noticing it was Nifu.
+The notator, Woman Professional Player Yamato Takahashi, then declared a game end based on the illegal move.
+
+--&gt;
+
+= Традиции и культурные обычаи =
+
+== Начало партии ==
+
+== Во время партии ==
+
+== Окончание партии ==
+
+= Приложение =
+В [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#scfe1062 оригинальной статье] в качестве приложения даётся английский текст [[Game Regulations of Japan Shogi Association]]. Предлагаю перевести его в отдельной статье, чтобы не перегружать эту, а тут поставить ссылку на перевод. --[[Участник:Ivan|Ivan]] ([[Обсуждение участника:Ivan|обсуждение]]) 17:19, 25 января 2013 (MSK)
+
+= Ссылки и первоисточники =
+
+[1] 将棋ガイドブック(Shogi Guidebook), Japan Shogi Association, 2003, ISBN 4-8197-0080-4
+
+Оригинальный текст [http://81dojo.com/manual/index.php?Rules%20and%20Manners%20of%20Shogi#hfb94241 &quot;Rules and Manners of Shogi&quot;] за авторством [[Томохидэ Кавасаки]]. Копия оригинальной сатьи: [[Rules and Manners of Shogi]].
+
+[[Категория:Своды правил сёги]]</text>
+    </revision>
   </page>
   <page>
     <title>Японская ассоциация сёги</title>
